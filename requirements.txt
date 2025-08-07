@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+python-dotenv>=1.0.1
+openai>=1.14.3
+firecrawl @ git+https://github.com/firecrawl/firecrawl-python-sdk.git
+serpapi>=0.1.4
+langgraph>=0.0.40
